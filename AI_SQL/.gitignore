@@ -1,0 +1,4 @@
+config.json
+.venv/
+aidb.sqlite
+response_*.json
